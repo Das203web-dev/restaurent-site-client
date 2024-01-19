@@ -1,0 +1,5 @@
+.featured-section {
+    background-image: url('../../../assets/home/featured.jpg');
+    background-position: center;
+    background-attachment: fixed;
+}

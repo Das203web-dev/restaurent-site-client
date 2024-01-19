@@ -1,0 +1,14 @@
+.thumbs {
+    display: flex;
+    justify-content: center;
+    /* width: 100%; */
+}
+
+.bistro {
+    background-image: url('../../assets/home/chef-service.jpg');
+    height: auto;
+    text-align: center;
+    padding: 10px;
+    background-size: cover;
+    background-position: center;
+}
